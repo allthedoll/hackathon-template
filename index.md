@@ -1,5 +1,5 @@
-title: [Hackathon-2020]
-description: [Mission: Save your teams time by automating manual tasks.]
+title: Hackathon-2020
+description: Mission: Save your teams time by automating manual tasks.
 
 # Hackathon-2020
 <img src="https://user-images.githubusercontent.com/5758031/91331710-bb2fcb80-e790-11ea-8d9b-51e9db3280ea.png" height ="250px" align="right" alt="Octocats at Hackathon">
