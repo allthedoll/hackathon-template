@@ -13,8 +13,8 @@ Location: Virtual (Zoom Meeting)
 Sign up:  TBD  
 
 ## Agenda (Times in EDT)
-| Time   |      Task   |  
-|--------|-------------|  
+| Time | Task |  
+|---|---|  
 | 10:00am |      Opening slides with Q & A |  
 | 10:30am |   GitHub action class |  
 | 11:15am |   Break into teams with Mentor, Begin work session |  
