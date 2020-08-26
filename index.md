@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Hackathon-2020
+<img src="https://user-images.githubusercontent.com/5758031/91331710-bb2fcb80-e790-11ea-8d9b-51e9db3280ea.png" height ="250px" align="right" alt="Octocats at Hackathon">
 
-You can use the [editor on GitHub](https://github.com/allthedoll/hackathon-template/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Mission**: Save your teams time by automating manual tasks
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Logistics
+Date:     09/14/2020  
+Time:     10AM - 4PM EDT  
+Location: Virtual (Zoom Meeting)  
+Sign up:  TBD  
 
-### Markdown
+## Agenda (Times in EDT)
+| Time   |      Task   |  
+|--------|-------------|  
+| 10:00am |      Opening slides with Q & A |  
+| 10:30am |   GitHub action class |  
+| 11:15am |   Break into teams with Mentor, Begin work session |  
+| 12:00pm |      Don't forget to take a break and eat! |  
+| 1:00pm |       Work Session continues with Mentors available for assistance |  
+| 3:00pm |       Wrap up work, Fill out `README` in your repository |  
+| 3:30pm |    Report Out on progress made, key learnings, and time saved metrics |  
+| 4:00pm |       Event end |  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allthedoll/hackathon-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Registration 
+<div id="register">
+        <div id="contact-form">
+                <form action="https://registration-middlewear.azurewebsites.net/api/http-registration-trigger" method="POST">
+                    <label>Registration Email</label>
+                <input type="email" name="email" placeholder="Registration Email" required /><br />
+                    <label>Full Name</label>
+                <input type="text" name="fullName" placeholder="FullName" required /><br />
+                    <label>GitHub Handle without @</label>
+                <input type="text" name="handle" placeholder="GitHub Handle without @" required /><br />
+                <button type="submit">Send</button>
+            </form>
+        </div>
+ </div>
